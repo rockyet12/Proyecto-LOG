@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj",
+        "packagesPath": "/home/et12alumno/.nuget/packages/",
+        "outputPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/et12alumno/.nuget/packages/",
+        "outputPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
