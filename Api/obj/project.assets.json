@@ -490,11 +490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj",
+      "projectUniqueName": "/home/et12alumno/Proyecto-LOG/Api/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/Api.csproj",
+      "projectPath": "/home/et12alumno/Proyecto-LOG/Api/Api.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Api/obj/",
+      "outputPath": "/home/et12alumno/Proyecto-LOG/Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
@@ -509,8 +509,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj"
+            "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj"
             }
           }
         }

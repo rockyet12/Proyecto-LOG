@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {}
+    "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
+    "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
+        "projectPath": "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/Escritorio/Proyecto-LOG/Aplicacion/obj/",
+        "outputPath": "/home/et12alumno/Proyecto-LOG/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"
