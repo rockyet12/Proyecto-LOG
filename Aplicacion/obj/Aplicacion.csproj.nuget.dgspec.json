@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roque\\Documents\\GitHub\\Proyecto-LOG\\Aplicacion\\Aplicacion.csproj": {}
+    "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roque\\Documents\\GitHub\\Proyecto-LOG\\Aplicacion\\Aplicacion.csproj": {
+    "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roque\\Documents\\GitHub\\Proyecto-LOG\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Roque\\Documents\\GitHub\\Proyecto-LOG\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Roque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roque\\Documents\\GitHub\\Proyecto-LOG\\Aplicacion\\obj\\",
+        "projectPath": "/home/et12alumno/Proyecto-LOG/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/et12alumno/.nuget/packages/",
+        "outputPath": "/home/et12alumno/Proyecto-LOG/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Roque\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }

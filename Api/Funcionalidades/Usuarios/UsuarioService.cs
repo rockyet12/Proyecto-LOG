@@ -1,8 +1,9 @@
+using Aplicacion.Dominio;
 namespace Api.Funcionalidades .Usuarios;
 
 public interface IUsuarioService
 {
-    list<Usuario> GetUsuario();
+    List<Usuario> GetUsuario();
 }
 public class UsuarioService: IUsuarioService
 {
